@@ -1,0 +1,20 @@
+
+1 python -m venv venv
+ativar a venv com o comando
+2  .\venv\Scripts\activate
+3 instalar o streamlit
+pip install streamlit
+
+pip install langchain langchain_community langchain_openai langchain_chroma python-decouple
+
+pip install pypdf
+
+pip install pymupdf
+
+para rodar o projeto 
+streamlit run .\app.py
+
+
+pip freeze > requirements.txt
+
+

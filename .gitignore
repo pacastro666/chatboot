@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore o diretório db e o arquivo SQLite se necessário
+db/
+*.sqlite3
+
+# Outros exemplos comuns
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.env
