@@ -17,4 +17,8 @@ streamlit run .\app.py
 
 pip freeze > requirements.txt
 
+Para usar o projeto precisa instalar os requiriments.txt
+pip install -r requirements.txt
+
+
 
